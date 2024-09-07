@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ordenacao.h": "c",
+        "xutility": "c",
+        "stdlib.h": "c"
+    }
+}
