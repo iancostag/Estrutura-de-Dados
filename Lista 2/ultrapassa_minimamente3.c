@@ -14,10 +14,4 @@ int calcula(int *v, int soma){
     {
         printf("%d\n",v[i-1]);
     }
-    
-
-
-
-
-
 }
